@@ -1,2 +1,2 @@
 #!/bin/bash
-awk -F: /etc/passwd | sort i
+awk /etc/passwd | sort i
